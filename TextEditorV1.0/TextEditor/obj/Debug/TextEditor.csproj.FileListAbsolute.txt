@@ -1,0 +1,23 @@
+D:\PROGRAMING\WinForms\DZ4\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+D:\PROGRAMING\WinForms\DZ4\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+D:\PROGRAMING\WinForms\DZ4\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+D:\PROGRAMING\WinForms\DZ4\TextEditor\TextEditor\obj\Debug\TextEditor.csprojResolveAssemblyReference.cache
+D:\PROGRAMING\WinForms\DZ4\TextEditor\TextEditor\obj\Debug\TextEditor.Form1.resources
+D:\PROGRAMING\WinForms\DZ4\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+D:\PROGRAMING\WinForms\DZ4\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.Cache
+D:\PROGRAMING\WinForms\DZ4\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+D:\PROGRAMING\WinForms\DZ4\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+D:\PROGRAMING\WinForms\DZ4\TextEditor\TextEditor\obj\Debug\TextEditor.Form2.resources
+F:\MY_restore222\PROGRAMING\WinForms\DZ4 - копия\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+F:\MY_restore222\PROGRAMING\WinForms\DZ4 - копия\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+F:\MY_restore222\PROGRAMING\WinForms\DZ4 - копия\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+F:\MY_restore222\PROGRAMING\WinForms\DZ4 - копия\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+F:\MY_restore222\PROGRAMING\WinForms\DZ4 - копия\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+F:\MY_restore222\PROGRAMING\WinForms\DZ4 - копия\TextEditor\TextEditor\obj\Debug\TextEditor.csprojResolveAssemblyReference.cache
+F:\MY_restore222\PROGRAMING\WinForms\DZ4 - копия\TextEditor\TextEditor\obj\Debug\TextEditor.Form1.resources
+F:\MY_restore222\PROGRAMING\WinForms\DZ4 - копия\TextEditor\TextEditor\obj\Debug\TextEditor.Form2.resources
+F:\MY_restore222\PROGRAMING\WinForms\DZ4 - копия\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+F:\MY_restore222\PROGRAMING\WinForms\DZ4 - копия\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.Cache
+G:\ALL\PROGRAMING\WinForms\DZ4 Working\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+G:\ALL\PROGRAMING\WinForms\DZ4 Working\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+G:\ALL\PROGRAMING\WinForms\DZ4 Working\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
